@@ -1,0 +1,68 @@
+    Nome Giocatore: Il nome del giocatore.
+    Partite Giocate: Il numero totale di partite giocate dal giocatore.
+    Minuti Giocati: Il numero totale di minuti giocati dal giocatore.
+    Gol Fatti: Il numero di gol segnati dal giocatore.
+    Tiri in Porta: Il numero di tiri effettivamente diretti verso la porta avversaria.
+    Dribbling Riusciti: Il numero di volte che il giocatore è riuscito a superare un avversario con un dribbling.
+    Occasioni Sprecate: Opportunità di gol non concretizzate.
+    Dribbling Tentati: Il numero totale di tentativi di dribbling, sia riusciti che no.
+    Partite - Passaggi: Numero di partite in cui il giocatore ha effettuato almeno un passaggio.
+    Minuti - Passaggi: Minuti giocati relativi alle statistiche sui passaggi.
+    Totale Passaggi: Numero totale di passaggi effettuati.
+    Passaggi Riusciti: Numero di passaggi arrivati a destinazione.
+    Percentuale Passaggi Riusciti: Rapporto tra passaggi riusciti e totali.
+    Passaggi Chiave: Passaggi che hanno creato un'opportunità di gol.
+    Occasioni Create: Numero di occasioni di gol create dal giocatore.
+    Cross Riusciti: Numero di cross che hanno raggiunto un compagno di squadra.
+    Porta Invulnerata: Partite in cui la squadra non ha subito gol quando il giocatore era in campo.
+    Falli Subiti: Numero di falli subiti dal giocatore.
+    Cartellini Gialli: Numero di ammonizioni ricevute.
+    Cartellini Rossi: Numero di espulsioni.
+    Palloni Rubati: Numero di volte in cui il giocatore ha recuperato il possesso del pallone.
+    Tackle Riusciti: Numero di interventi difensivi riusciti per togliere la palla all'avversario.
+    Partite - Azioni Difensive: Numero di partite con azioni difensive registrate.
+    Minuti - Azioni Difensive: Minuti giocati relativi alle statistiche difensive.
+    Intercept: Numero di volte in cui il giocatore ha intercettato passaggi avversari.
+    Palloni Recuperati: Numero totale di recuperi di pallone.
+    Duelli Aerei/Terra Vinti: Numero di duelli individuali vinti, sia aerei che a terra.
+    Duelli Aerei/Terra Persi: Numero di duelli individuali persi.
+    Errori Decisionali: Errori commessi che potrebbero aver portato a occasioni per gli avversari.
+    Tackle - Azioni Difensive: Distingue i tackle all'interno delle azioni difensive.
+    Contropiedi: Numero di attacchi rapidi organizzati dopo aver recuperato il pallone.
+    Contropiedi Vinti: Contropiedi che hanno portato a un'opportunità di gol o a un gol.
+    Transizioni Difensive: Azioni di gioco che coinvolgono il movimento da difesa a attacco.
+    Transizioni Centrali: Azioni di gioco che coinvolgono il movimento centrale del campo.
+    Transizioni Offensive: Azioni di gioco che coinvolgono il movimento da attacco a difesa.
+    Attacchi: Numero di azioni offensive intraprese.
+    Palloni Persi: Numero di volte in cui il giocatore ha perso il possesso del pallone.
+    Blocchi Effettuati: Numero di volte in cui il giocatore ha bloccato un tiro o un passaggio.
+    Tiri Effettuati: Numero totale di tiri verso la porta avversaria.
+    Tipo Passaggio: Differenziazione tra vari tipi di passaggi.
+    Intercettazioni: Numero di intercettazioni effettuate.
+    Tackle + Intercettazioni: Somma dei tackle riusciti e delle intercettazioni.
+    Salvataggi: Azioni difensive cruciali, inclusi i salvataggi del portiere.
+    Errori: Numero totale di errori commessi che hanno portato a un'opportunità per l'avversario.
+    Azione Creata: Azioni che hanno portato a una possibilità di gol.
+    Passaggi Live/Dead: Differenziazione tra passaggi effettuati con il gioco in movimento e da fermo.
+    Assist: Passaggi che hanno direttamente portato a un gol.
+    Azione Difensiva: Interventi difensivi riusciti.
+    Azione Gol Creata: Azioni che hanno contribuito alla creazione di un gol.
+    Passaggi Completati: Numero di passaggi arrivati a destinazione.
+    Tentativi: Numero di tentativi di azione, che possono includere tiri, passaggi, ecc.
+    Distanza Totale Percorsa: Distanza totale percorsa da un giocatore durante una partita.
+    Distanza Progressiva Percorsa: Distanza percorsa verso l'area avversaria durante una partita.
+    Expected Assists Gol: Statistiche avanzate che misurano la qualità dei passaggi in termini di creazione di gol.
+    Expected Assists: Statistiche avanzate che misurano la qualità dei passaggi in termini di creazione di opportunità di gol.
+    Differenza tra Assist Attesi e Gol: La discrepanza tra gli assist attesi e i gol effettivamente realizzati.
+    Palle Ferme: Coinvolgimento in situazioni di gioco da palla ferma.
+    Entrate nel Terzo Finale/Passaggi Penetranti nell'Area/Cross nell'Area di Rigore: Metriche che indicano il coinvolgimento nell'attacco penetrando le difese avversarie.
+    Passaggi Progressivi: Passaggi che avanzano significativamente il gioco verso la porta avversaria.
+    Palla in Gioco/Fuori Gioco: Statistiche relative al tempo di possesso o alla posizione del pallone.
+    Punizioni: Situazioni di gioco da calcio di punizione.
+    Passaggi Filtranti: Passaggi intenzionali per superare la difesa avversaria.
+    Scambi Palla: Passaggi rapidi e in successione tra giocatori della stessa squadra.
+    Rimesse Laterali: Ripresa di gioco da palla fuori dal campo lungo la linea laterale.
+    Calci d'Angolo: Situazioni di gioco da calcio d'angolo.
+    Conversioni/Divise/Direzione/Posizioni di Fuorigioco/Contesti: Varie statistiche personali e tattiche.
+    Interceptazioni/Falli Commessi/Fuorigioco/Spazi/Dribbling/Respinte: Ulteriori azioni difensive o offensive.
+    Valutazione Giocatore: Una valutazione numerica o soggettiva della prestazione complessiva del giocatore durante una partita.

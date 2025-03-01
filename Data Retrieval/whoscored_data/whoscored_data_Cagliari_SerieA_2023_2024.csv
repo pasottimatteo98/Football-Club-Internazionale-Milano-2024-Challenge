@@ -1,0 +1,30 @@
+Giocatore,Giocatore,cm,kg,Pres,Min,Cont,Inter,Falli,Fuorig,Spaz,Drib,Respinte,Autogol,Rating
+"1Matteo Prati20,  Cc(C)","Matteo Prati 20,  Cc(C)",183,0,16(2),1511,1.8,0.6,0.9,0.1,1.1,0.7,0.1,-,6.36
+"2Pantelis Hatzidiakos27,  Di(CD)","Pantelis Hatzidiakos 27,  Di(CD)",185,74,10,646,1.8,0.6,0.5,0.7,1.9,0.6,0.4,-,6.21
+"3Alberto Dossena25,  Di(C)","Alberto Dossena 25,  Di(C)",195,0,25(2),2273,1.8,1.3,1,0.6,4.8,0.6,0.9,1,6.89
+"4Ibrahim Sulemana20,  Cc(C)","Ibrahim Sulemana 20,  Cc(C)",180,0,11(2),864,1.6,0.4,0.9,-,0.5,0.6,0.2,-,6.33
+"5Nahitan Nández28,  Di(D),Cc(CSD)","Nahitan Nández 28,  Di(D),Cc(CSD)",172,70,20(3),1581,1.6,0.5,1.3,0.1,0.8,1.2,-,-,6.43
+"6Antoine Makoumbou25,  Cc(C)","Antoine Makoumbou 25,  Cc(C)",183,0,25,2141,1.4,0.5,0.8,0.1,0.7,0.5,0.1,-,6.30
+"7Yerry Mina29,  Di(C)","Yerry Mina 29,  Di(C)",195,94,5,410,1.4,0.4,0.8,1.4,5.2,0.6,1.8,-,6.72
+"8Gabriele Zappa24,  Di(CD),Cc(D)","Gabriele Zappa 24,  Di(CD),Cc(D)",180,78,18(9),1895,1.3,0.6,0.6,0.3,1.9,0.4,0.1,-,6.39
+"9Paulo Azzi29,  Cc(S)","Paulo Azzi 29,  Cc(S)",188,80,9(9),846,1.1,0.8,0.2,0.1,0.9,0.5,0.1,-,6.36
+"10Tommaso Augello29,  Di(S),Cc(S)","Tommaso Augello 29,  Di(S),Cc(S)",180,70,18(4),1592,1,0.3,0.5,0.4,2,0.3,0.3,-,6.49
+"11Edoardo Goldaniga30,  Di(CD)","Edoardo Goldaniga 30,  Di(CD)",193,87,12(1),1013,0.9,1.2,1.1,0.6,2.7,0.5,0.5,-,6.37
+"12Adam Obert21,  Di(C)","Adam Obert 21,  Di(C)",186,0,6(5),576,0.9,1.2,0.9,0.2,1.9,0.5,0.5,-,6.30
+"13Alessandro Deiola28,  Cc(C)","Alessandro Deiola 28,  Cc(C)",189,85,10(7),853,0.9,0.3,0.6,-,0.8,1,0.2,1,6.18
+"14Gaetano Oristanio21,  CO(CSD),AC","Gaetano Oristanio 21,  CO(CSD),AC",175,62,9(10),868,0.7,0.4,1.5,-,0.3,0.4,-,-,6.46
+"15Mateusz Wieteska27,  Di(C)","Mateusz Wieteska 27,  Di(C)",187,77,8(3),711,0.7,1.3,1,0.6,3.5,0.5,0.3,-,6.30
+"16Nicolas Viola34,  Cc(C)","Nicolas Viola 34,  Cc(C)",180,76,10(8),985,0.6,0.1,0.9,0.1,0.3,0.5,-,-,6.71
+"17Gianluca Gaetano23,  Midfielder","Gianluca Gaetano 23,  Midfielder",181,71,4(1),356,0.6,0.4,1.2,-,0.4,0.6,-,-,6.83
+"18Jakub Jankto28,  Cc(CSD)","Jakub Jankto 28,  Cc(CSD)",184,74,10(5),740,0.6,0.3,0.6,-,1.1,0.7,0.1,-,6.36
+"19Marco Mancosu35,  CO(C)","Marco Mancosu 35,  CO(C)",180,75,3(2),157,0.4,-,0.6,-,-,0.2,-,-,6.03
+"20Alessandro Di Pardo24,  Defender","Alessandro Di Pardo 24,  Defender",182,76,0(11),229,0.3,0.4,0.2,-,0.3,0.2,0.2,-,6.05
+"21Zito Luvumbo21,  AC","Zito Luvumbo 21,  AC",171,65,13(9),1385,0.3,-,1,-,-,0.2,-,-,6.48
+"22Andrea Petagna28,  AC","Andrea Petagna 28,  AC",190,85,13(5),1000,0.2,0.1,1,-,0.2,0.1,0.2,-,6.38
+"23Eldor Shomurodov28,  AC","Eldor Shomurodov 28,  AC",190,81,2(10),316,0.2,0.1,0.3,-,-,0.3,-,-,6.19
+"24Gianluca Lapadula34,  AC","Gianluca Lapadula 34,  AC",178,69,8(6),664,0.1,0.1,0.9,-,0.3,0.2,0.1,-,6.23
+"25Leonardo Pavoletti35,  AC","Leonardo Pavoletti 35,  AC",188,80,5(14),620,0.1,-,1,-,0.4,0.1,0.1,-,6.47
+"26Simone Scuffet27,  POR","Simone Scuffet 27,  POR",193,77,20,1800,0.1,0.1,-,-,0.9,-,-,-,6.46
+"27Boris Radunovic27,  POR","Boris Radunovic 27,  POR",194,84,7,630,-,0.1,-,-,0.7,-,-,-,6.35
+"28Kingstone Mutandwa21,  Forward","Kingstone Mutandwa 21,  Forward",180,0,0(1),3,-,-,-,-,-,-,-,-,6.26
+"29Simone Aresti37,  Goalkeeper","Simone Aresti 37,  Goalkeeper",187,72,1,1,-,-,-,-,-,-,-,-,6.00

@@ -1,0 +1,31 @@
+Giocatore,Giocatore,cm,kg,Pres,Min,Cont,Inter,Falli,Fuorig,Spaz,Drib,Respinte,Autogol,Rating
+"1Bryan Cristante29,  Di(C),Cc(C)","Bryan Cristante 29,  Di(C),Cc(C)",186,80,34(2),2945,3.1,0.5,1.4,-,1.4,1,0.3,-,6.81
+"2Ibañez25,  Di(C)","Ibañez 25,  Di(C)",185,73,32(1),2797,2,2,1.3,0.2,2.8,0.5,0.3,1,6.87
+"3Zeki Çelik27,  Di(D),Cc(D)","Zeki Çelik 27,  Di(D),Cc(D)",180,78,16(8),1503,1.8,0.6,1.1,-,1,0.7,0.3,-,6.48
+"4Lorenzo Pellegrini27,  Cc(CS)","Lorenzo Pellegrini 27,  Cc(CS)",186,77,29(3),2558,1.6,0.8,0.8,-,0.6,0.8,0.1,-,7.09
+"5Rick Karsdorp29,  Di(D),Cc(D)","Rick Karsdorp 29,  Di(D),Cc(D)",184,80,8(5),713,1.6,0.5,0.3,0.2,1.2,0.7,-,-,6.34
+"6Edoardo Bove21,  Cc(C)","Edoardo Bove 21,  Cc(C)",179,0,10(12),990,1.6,0.5,1.1,-,0.3,1,-,-,6.34
+"7Nicola Zalewski22,  Cc(SD)","Nicola Zalewski 22,  Cc(SD)",164,68,26(7),2210,1.4,0.9,0.7,-,0.6,1.5,-,-,6.59
+"8Nemanja Matic35,  MC","Nemanja Matic 35,  MC",194,85,16(19),1839,1.3,0.7,0.5,-,0.5,0.4,0.2,-,6.65
+"9Filippo Missori19,  Defender","Filippo Missori 19,  Defender",182,0,2(1),181,1.3,1,1.3,-,1,1,-,-,6.22
+"10Diego Llorente30,  Di(C),MC","Diego Llorente 30,  Di(C),MC",186,75,5(4),574,1.1,1.2,1,0.3,2.1,0.8,0.2,-,6.58
+"11Gianluca Mancini27,  Di(C),MC","Gianluca Mancini 27,  Di(C),MC",190,77,33(2),2867,1.1,1.3,1.1,0.1,1.8,0.5,0.5,-,6.67
+"12Matías Viña26,  Di(S),Cc(S)","Matías Viña 26,  Di(S),Cc(S)",175,70,1(2),55,1,0.7,1.3,-,1,0.7,0.3,-,6.33
+"13Mady Camara27,  Cc(C)","Mady Camara 27,  Cc(C)",185,75,8(7),699,0.9,0.7,1,-,0.5,0.7,0.1,-,6.34
+"14Chris Smalling34,  Di(CD)","Chris Smalling 34,  Di(CD)",194,81,31(1),2808,0.8,1.3,0.6,0.2,3.8,0.3,1.1,-,6.91
+"15Benjamin Tahirovic21,  MC","Benjamin Tahirovic 21,  MC",183,68,4(7),352,0.7,0.3,0.5,-,0.3,0.7,0.4,-,6.26
+"16Stephan El Shaarawy31,  Cc(CSD),AC","Stephan El Shaarawy 31,  Cc(CSD),AC",178,72,14(15),1523,0.7,0.5,0.6,-,0.3,0.6,-,-,6.79
+"17Leonardo Spinazzola30,  Di(SD),Cc(S)","Leonardo Spinazzola 30,  Di(SD),Cc(S)",186,75,18(8),1656,0.6,0.3,0.5,-,0.8,0.6,0.1,-,6.55
+"18Marash Kumbulla24,  Di(C)","Marash Kumbulla 24,  Di(C)",191,78,5(2),263,0.6,0.6,0.4,0.1,0.9,0.1,0.1,-,6.15
+"19Nicolò Zaniolo24,  CO(CSD),AC","Nicolò Zaniolo 24,  CO(CSD),AC",190,79,12(1),898,0.5,0.2,1.7,-,-,0.4,-,-,6.21
+"20Paulo Dybala30,  CO(CD),AC","Paulo Dybala 30,  CO(CD),AC",177,75,22(4),1752,0.5,0.3,0.4,-,0.1,0.7,-,-,7.20
+"21Tammy Abraham26,  AC","Tammy Abraham 26,  AC",190,80,24(14),2199,0.4,0.1,0.9,-,0.4,0.3,0.1,-,6.75
+"22Cristian Volpato20,  Midfielder","Cristian Volpato 20,  Midfielder",187,0,2(5),224,0.4,0.3,1,-,-,0.3,-,-,6.55
+"23Andrea Belotti30,  AC","Andrea Belotti 30,  AC",181,72,11(20),1135,0.4,0.1,0.7,-,0.2,0.2,-,-,6.25
+"24Georginio Wijnaldum33,  Cc(CSD)","Georginio Wijnaldum 33,  Cc(CSD)",175,69,10(4),768,0.3,0.1,0.2,-,0.2,0.1,0.1,-,6.60
+"25Eldor Shomurodov28,  AC","Eldor Shomurodov 28,  AC",190,81,1(5),115,0.2,0.2,0.2,-,-,0.3,-,-,6.09
+"26Ola Solbakken25,  CO(D)","Ola Solbakken 25,  CO(D)",186,0,7(7),504,0.1,0.1,0.4,-,0.6,0.4,-,-,6.32
+"27Rui Patrício36,  POR","Rui Patrício 36,  POR",190,84,35,3150,-,0.1,-,-,0.3,-,-,-,6.45
+"28Jordan Majchrzak19,  Forward","Jordan Majchrzak 19,  Forward",0,0,0(1),13,-,-,-,-,-,-,-,-,6.12
+"29Mile Svilar24,  POR","Mile Svilar 24,  POR",189,77,3,270,-,-,-,-,0.3,-,-,-,6.56
+"30Niccolò Pisilli19,  Midfielder","Niccolò Pisilli 19,  Midfielder",181,0,0(1),1,-,-,-,-,-,-,-,-,6.00

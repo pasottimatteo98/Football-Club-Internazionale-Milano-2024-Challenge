@@ -1,0 +1,30 @@
+Giocatore,Giocatore,cm,kg,Pres,Min,Cont,Inter,Falli,Fuorig,Spaz,Drib,Respinte,Autogol,Rating
+"1Denis Zakaria27,  Di(C),MC","Denis Zakaria 27,  Di(C),MC",189,81,1(1),122,3,1,-,-,0.5,-,-,-,6.65
+"2Enzo Barrenechea22,  MC","Enzo Barrenechea 22,  MC",186,81,3,161,2.7,0.7,1,-,1,0.7,-,-,6.47
+"3Danilo32,  Di(CSD),MC","Danilo 32,  Di(CSD),MC",184,78,35(2),3182,2.5,1.3,0.9,0.2,3,0.6,0.5,-,7.04
+"4Adrien Rabiot28,  MC,Cc(S)","Adrien Rabiot 28,  MC,Cc(S)",188,72,31(1),2751,2,0.8,1.4,-,1.2,0.8,0.2,-,7.11
+"5Manuel Locatelli26,  Cc(C)","Manuel Locatelli 26,  Cc(C)",185,75,29(3),2460,1.8,0.8,1.4,-,1.6,0.7,0.7,-,6.88
+"6Juan Cuadrado35,  Di(D),Cc(CSD),AC","Juan Cuadrado 35,  Di(D),Cc(CSD),AC",179,72,24(7),2090,1.6,0.8,1.1,0.1,0.7,1.2,0.1,-,6.89
+"7Alex Sandro33,  Di(CS),Cc(S)","Alex Sandro 33,  Di(CS),Cc(S)",180,80,21(4),1789,1.4,0.6,1.1,0.4,2.5,0.3,0.4,-,6.70
+"8Nicolò Fagioli23,  Cc(C)","Nicolò Fagioli 23,  Cc(C)",178,71,17(9),1523,1.1,0.3,0.8,-,0.2,0.7,0.1,-,6.53
+"9Filip Kostic31,  Cc(SD),AC","Filip Kostic 31,  Cc(SD),AC",184,81,33(4),2582,1.1,0.4,0.8,-,0.7,0.7,0.1,-,6.78
+"10Federico Chiesa26,  Cc(CSD),AC","Federico Chiesa 26,  Cc(CSD),AC",175,70,6(15),843,1,-,0.6,-,-,0.4,-,-,6.59
+"11Tommaso Barbieri21,  Defender","Tommaso Barbieri 21,  Defender",181,59,2(1),110,1,-,1.7,-,0.3,1.7,-,-,6.07
+"12Bremer26,  Di(C)","Bremer 26,  Di(C)",188,80,30,2640,1,1.4,1,0.5,3.8,0.2,0.7,-,6.92
+"13Weston McKennie25,  Di(C),Cc(CSD)","Weston McKennie 25,  Di(C),Cc(CSD)",183,84,13(2),1060,0.9,0.7,0.9,-,0.9,0.2,0.3,-,6.59
+"14Fabio Miretti20,  CO(C)","Fabio Miretti 20,  CO(C)",179,0,14(13),1233,0.9,0.1,0.9,-,0.3,0.6,-,-,6.39
+"15Federico Gatti25,  Di(C)","Federico Gatti 25,  Di(C)",190,0,16(2),1446,0.8,1.2,0.9,0.3,2.9,0.3,0.8,-,6.73
+"16Mattia De Sciglio31,  Di(CSD),Cc(SD)","Mattia De Sciglio 31,  Di(CSD),Cc(SD)",182,78,11(6),1046,0.8,0.2,0.2,0.2,1,0.3,0.2,-,6.40
+"17Daniele Rugani29,  Di(C)","Daniele Rugani 29,  Di(C)",190,84,6(3),563,0.8,0.8,0.6,0.3,3.4,-,0.6,-,6.69
+"18Leandro Paredes29,  MC","Leandro Paredes 29,  MC",182,75,8(17),969,0.8,0.7,0.8,-,0.8,0.5,-,-,6.41
+"19Samuel Iling-Junior20,  Forward","Samuel Iling-Junior 20,  Forward",182,0,1(11),308,0.6,0.2,0.8,-,0.5,0.4,0.1,-,6.36
+"20Matías Soulé20,  CO(CD)","Matías Soulé 20,  CO(CD)",182,0,4(9),415,0.5,0.2,0.2,-,0.2,0.2,0.1,-,6.50
+"21Arkadiusz Milik30,  CO(C),AC","Arkadiusz Milik 30,  CO(C),AC",186,80,17(10),1583,0.4,-,1,-,0.5,0.2,-,-,6.69
+"22Dusan Vlahovic24,  AC","Dusan Vlahovic 24,  AC",190,88,22(5),1932,0.4,0.1,0.7,-,0.3,0.2,0.1,-,6.75
+"23Ángel Di María36,  Cc(CSD),AC","Ángel Di María 36,  Cc(CSD),AC",180,75,15(11),1364,0.4,0.3,0.2,-,-,0.6,-,-,6.83
+"24Nicolò Rovella22,  MC","Nicolò Rovella 22,  MC",179,66,0(3),23,0.3,-,0.3,-,-,-,-,-,6.15
+"25Leonardo Bonucci36,  Di(C)","Leonardo Bonucci 36,  Di(C)",190,85,10(7),878,0.3,0.8,0.6,0.3,1.7,0.1,0.5,-,6.50
+"26Moise Kean24,  CO(SD),AC","Moise Kean 24,  CO(SD),AC",183,67,11(17),990,0.3,0.2,0.5,-,0.1,0.1,-,-,6.33
+"27Wojciech Szczesny33,  POR","Wojciech Szczesny 33,  POR",195,90,28,2473,-,-,-,-,0.6,-,-,-,6.77
+"28Mattia Perin31,  POR","Mattia Perin 31,  POR",188,85,10(1),947,-,-,-,-,0.1,-,-,-,6.85
+"29Paul Pogba30,  Cc(CS)","Paul Pogba 30,  Cc(CS)",191,84,1(5),108,-,-,0.3,-,0.3,0.2,-,-,6.42
